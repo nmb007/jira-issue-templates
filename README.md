@@ -1,3 +1,3 @@
-# jira-issue-templates
+# Issue Templates
 
-To use, simply copy the raw contents of a template into Jira create ticket screen
+To use, simply copy the raw contents from the template file into Jira create ticket screen
